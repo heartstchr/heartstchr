@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋:bowtie:
 
 <img src="http://heartstchr.github.io/img/jiwan.png"  height="200"/>
 
@@ -7,25 +7,25 @@ Jiwan Ghosal, Full Stack Developer (Backend & Frontend) experienced in a wide va
 
 Senior Full Stack Developer - Graphic Artist - UI/UX Designer
 
-  > Book Malaysia and Singapore Bus Ticket Online | CatchThatBus
+  > :oncoming_bus: Book Malaysia and Singapore Bus Ticket Online | CatchThatBus
   
     > CatchThatBus Leisure, Travel & Tourism
 
-  > Open a Demat Account Online - Demat Account Opening at Upstox
+  > :chart_with_upwards_trend: Open a Demat Account Online - Demat Account Opening at Upstox
   
     > Upstox Online Stock Broker
 
-  > Digital Marketing
+  > :mega: Digital Marketing
   
     > Mobistreak Marketing and Advertising
 
-## Contributions
+## :beers: Contributions
 
 <img src="https://github-readme-stats.vercel.app/api?username=heartstchr&show_icons=true&count_private=true&title_color=b794f4&text_color=ffffff&icon_color=ffffff&bg_color=1a202c&include_all_commits=true%22%20alt=%22Contributions" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heartstchr&layout=compact&title_color=553c9a&text_color=1a202c"/>
 
-## Find me
+## :flashlight: Find me
 
 <p>
   <a href="https://www.linkedin.com/in/jiwanghosal/" rel="nofollow">
