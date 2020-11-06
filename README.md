@@ -28,6 +28,10 @@ Senior Full Stack Developer - Graphic Artist - UI/UX Designer
 ## :flashlight: Find me
 
 <p>
+  <a href="https://stackoverflow.com/story/jiwanghosal" rel="nofollow">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="twitter" height="35" />
+  </a>
+  
   <a href="https://www.linkedin.com/in/jiwanghosal/" rel="nofollow">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="35" />
   </a>
