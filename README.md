@@ -1,4 +1,4 @@
-### Hi there 👋:bowtie:
+### Hi there 👋
 
 <img src="http://heartstchr.github.io/img/jiwan.png"  height="200"/>
 
