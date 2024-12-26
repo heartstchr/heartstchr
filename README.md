@@ -4,9 +4,9 @@
 
 ## Good to have you here!
 
-Jiwan Ghosal, Full Stack Developer (Backend & Frontend) experienced in a wide variety of technologies and software tools with a demonstrated history of working in the industry. Agile Software Development and contribute in all steps of planning, implementation, test, monitoring and delivery.Also, a Google certified SEM Analyst.
+Experienced full-stack developer specializing in scalable web, mobile, and software solutions.
 
-Senior Full Stack Developer - Graphic Artist - UI/UX Designer
+I bring a proven track record of success in the industry, with a comprehensive skill set spanning every phase of software development
 
   > :oncoming_bus: Book Malaysia and Singapore Bus Ticket Online | CatchThatBus
   
