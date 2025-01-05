@@ -1,24 +1,10 @@
 ### Hi there 👋
 
-<img src="http://heartstchr.github.io/img/jiwan.png"  height="200"/>
+# I am Jiwan Ghosal
 
 ## Good to have you here!
 
 Experienced full-stack developer specializing in scalable web, mobile, and software solutions.
-
-I bring a proven track record of success in the industry, with a comprehensive skill set spanning every phase of software development
-
-  > :oncoming_bus: Book Malaysia and Singapore Bus Ticket Online | CatchThatBus
-  
-    > CatchThatBus Leisure, Travel & Tourism
-
-  > :chart_with_upwards_trend: Open a Demat Account Online - Demat Account Opening at Upstox
-  
-    > Upstox Online Stock Broker
-
-  > :mega: Digital Marketing
-  
-    > Mobistreak Marketing and Advertising
 
 ## :beers: Contributions
 
