@@ -1,3 +1,6 @@
+
+![jiwan ghosal idea ](https://github.com/user-attachments/assets/0f8f597a-5236-4cc8-a345-80cdfd8e7071)
+
 ### Hi there 👋
 
 # I am Jiwan Ghosal
