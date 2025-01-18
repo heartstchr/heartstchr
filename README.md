@@ -2,10 +2,9 @@
 ![jiwan ghosal idea ](https://github.com/user-attachments/assets/0f8f597a-5236-4cc8-a345-80cdfd8e7071)
 
 ### Hi there 👋
+## Good to have you here!
 
 # I am Jiwan Ghosal
-
-## Good to have you here!
 
 Experienced full-stack developer specializing in scalable web, mobile, and software solutions.
 
