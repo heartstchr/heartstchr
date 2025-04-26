@@ -9,19 +9,18 @@ Experienced full-stack developer specializing in scalable web, mobile, and softw
 
 ## 🛠️ Technologies & Tools
 
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js)
-![](https://img.shields.io/badge/Code-Nuxt-informational?style=flat&color=informational&logo=nuxt)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-Next-informational?style=flat&color=informational&logo=next)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
-![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=informational&logo=webpack)
-![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=informational&logo=jest)
-![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=informational&logo=sass)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=informational&logo=docker)
-![](https://img.shields.io/badge/Tool-Azure-informational?style=flat&color=informational&logo=azuredevops)
+![](https://img.shields.io/badge/JavaScript-informational?logo=javascript)
+![](https://img.shields.io/badge/React-informational?logo=react)
+![](https://img.shields.io/badge/Next-informational?logo=next.js)
+![](https://img.shields.io/badge/Vue-informational?logo=vue.js)
+![](https://img.shields.io/badge/Nuxt-informational?logo=nuxt)
+![](https://img.shields.io/badge/Node-informational?logo=node.js)
+![](https://img.shields.io/badge/PNPM-informational?logo=pnpm)
+![](https://img.shields.io/badge/Webpack-informational?logo=webpack)
+![](https://img.shields.io/badge/Jest-informational?logo=jest)
+![](https://img.shields.io/badge/SCSS-informational?logo=sass)
+![](https://img.shields.io/badge/Docker-informational?logo=docker)
+![](https://img.shields.io/badge/DigitalOcean-informational?logo=digitalocean)
 
 ## 📚 Content
 Besides developing, I also run a [Youtube Channel](https://www.youtube.com/channel/UCedRFWwDbnHmg95RpPWBZRA).
