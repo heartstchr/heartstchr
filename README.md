@@ -9,7 +9,7 @@ I deliver scalable web applications, with quality code📘 as a full-stack web d
 
 Check out my previous work!👇 ...
 
-![Stack Seekers](http://stackseekers.com/) 
+[Stack Seekers](http://stackseekers.com/) 
 
 ## 🛠️ Technologies & Tools
 
