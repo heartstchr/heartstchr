@@ -5,7 +5,11 @@
 
 # Hi there 👋 I am Jiwan Ghosal
 
-Experienced full-stack developer specializing in scalable web, mobile, and software solutions.
+I deliver scalable web applications, with quality code📘 as a full-stack web developer specializing in Nodejs frameworks. 
+
+Check out my previous work!👇 ...
+
+[Stack Seekers](http://stackseekers.com/) 
 
 ## 🛠️ Technologies & Tools
 
@@ -35,35 +39,6 @@ Besides developing, I also run a [Youtube Channel](https://www.youtube.com/chann
 ## 🏆 GitHub Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=heartstchr&theme=radical)
-
-## :flashlight: Find me
-
-<p>
-  <a href="https://stackoverflow.com/users/10376224/stchr" rel="nofollow">
-    <img src="https://cdn.simpleicons.org/stackoverflow" alt="twitter" height="35" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/jiwanghosal/" rel="nofollow">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="linkedin" height="35" />
-  </a>
-
-  <a href="https://www.instagram.com/stchr_heart/" rel="nofollow">
-    <img src="https://cdn.simpleicons.org/instagram" alt="instagram" height="35" width="55" />
-  </a>
-
-  <a href="https://twitter.com/stchr_ghosal" rel="nofollow">
-    <img src="https://cdn.simpleicons.org/x/white/black" alt="x" height="35" />
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UCedRFWwDbnHmg95RpPWBZRA" rel="nofollow">
-    <img src="https://cdn.simpleicons.org/youtube" alt="youtube" height="35" />
-  </a>
-
-  <a href="mailto:jiwan.cse@gmail.com" rel="nofollow">
-    <img src="https://cdn.simpleicons.org/gmail" alt="gmail" height="35" />
-  </a>
-  
-</p>
 
 ---
 
